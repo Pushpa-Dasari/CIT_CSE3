@@ -9,7 +9,7 @@
 
 ### Version control Systems
     + Distributed VCS
-        - Git, Mercurial
+        - Git,
         - [Download Git](https://git-scm.com/download/win)
 
     + Remote(Central) VCS
